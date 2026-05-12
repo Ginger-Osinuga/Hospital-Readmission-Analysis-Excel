@@ -22,4 +22,4 @@ This project analyzes U.S. healthcare data to identify geographic and clinical t
 
 ## 📈 Interactive Analysis
 You can view the full interactive dashboard and data pivots here:
-**[Link to Google Sheets Project]**
+**[[Link to Google Sheets Project](https://docs.google.com/spreadsheets/d/1t6EhAcCa6kLhx1Xu5zV3DEctJA5GOBEdhle7QmE_ZLk/edit?usp=sharing)]**
