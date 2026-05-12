@@ -20,5 +20,5 @@ This project analyzes U.S. healthcare data to identify geographic and clinical t
     * *Strategic Recommendation:* Prioritize **more intensive transition programs** for Heart Failure and respiratory patients, such as enhanced discharge education and mandatory 48-hour follow-up calls.
 
 ## Data Source
-* **Dataset:** [US Healthcare Readmissions and Mortality (Kaggle)](https://kaggle.com)
+* **Dataset:** [US Healthcare Readmissions and Mortality (Kaggle)](https://www.kaggle.com/datasets/thedevastator/us-healthcare-readmissions-and-mortality)
 * **Key Metrics:** State, Measure Name (Condition), and Average Score (Readmission Rate %).
